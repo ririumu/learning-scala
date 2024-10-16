@@ -1,0 +1,18 @@
+# Idea/IntelliJ specific
+/.idea/
+/*.iml
+
+# VS Code specific
+/.vscode/
+
+# SBT-specific
+/target/
+/project/
+/project/target/
+/project/project/
+
+# MacOS specific
+.DS_Store
+
+# Ignore sbt.json
+sbt.json
